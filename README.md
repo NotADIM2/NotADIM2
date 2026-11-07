@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [AR_REaltimeFace_Detection](https://github.com/NotADIM2/AR_Realtime_FaceDetection)
 
-- ⚡ Fun fact **I Think I Am Funny**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
