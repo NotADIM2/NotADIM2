@@ -6,7 +6,7 @@ CSE student. I build AI things, then design screens nice enough that people forg
 
 ## 🎯 Goal
 
-To become a **design engineer**: someone who designs the interface and then builds it for real, with AI working underneath.
+To become a **Frontend engineer**: someone who builds the client-facing side of websites and applications — everything users see and interact with.
 
 ## 💻 What I know
 
