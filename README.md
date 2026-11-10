@@ -36,7 +36,7 @@ Ramble into your mic and get back an investor-ready 10-slide pitch deck and a 60
 
 ![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=NotADIM2&theme=dark&hide_border=true&layout=compact)
 
-<h3 align="center">👀 Profile Views</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NotADIM2&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="NotADIM2 profile views" />
