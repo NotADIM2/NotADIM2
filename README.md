@@ -16,12 +16,21 @@ Wave at your webcam and it actually gets you: 25 gestures, sign language turned 
 **🎤 [VoxDeck](https://github.com/NotADIM2/VoxDeck)** · [live demo](https://voxdeck-chi.vercel.app)
 Ramble into your mic and get back an investor-ready 10-slide pitch deck and a 60-second pitch script. Talking finally pays off.
 
-![Profile Views](https://komarev.com/ghpvc/?username=NotADIM2&label=Profile%20Views&color=blue&style=flat)
+## 🧠 About me
+
+- 🏃 Morning runner, slowly adding distance. Best run so far is 5K, longest walk is 8.1K.
+- ♟️ Casual chess on Duolingo. The owl now judges my Spanish and my openings.
+- 🗣️ I speak Konkani, Kannada, Hindi, English, Marathi and Urdu.
+- 📚 Currently learning Spanish, German, Bengali, Punjabi, Russian and Japanese. Twelve languages, and I still can't explain my code in any of them.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NotADIM2&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=NotADIM2&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NotADIM2&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+![Profile Views](https://komarev.com/ghpvc/?username=NotADIM2&label=Profile%20Views&color=blue&style=flat)
+
 ---
+
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=NotADIM2&theme=dark&hide_border=true&layout=compact)
+
