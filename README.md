@@ -35,4 +35,4 @@ Ramble into your mic and get back an investor-ready 10-slide pitch deck and a 60
 ---
 
 ![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=NotADIM2&theme=dark&hide_border=true&layout=compact)
-
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
